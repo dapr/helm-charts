@@ -3,11 +3,20 @@ entries:
   dapr:
   - apiVersion: v1
     appVersion: 0.8.0
-    created: "2020-06-24T10:32:16.07839-07:00"
+    created: "2020-06-24T14:41:53.783297-07:00"
     description: A Helm chart for Dapr on Kubernetes
     digest: 7689ce73a1addb70e1788fe1daf5746978ca1fe47bc61d23ead69ab2839f7aa9
     name: dapr
     urls:
-    - https://github.com/dapr/dapr-helm-charts.io/charts/dapr-0.4.2.tgz
+    - https://dapr.github.io/dapr-helm-charts.io/dapr-0.4.2.tgz
     version: 0.4.2
-generated: "2020-06-24T10:32:16.074774-07:00"
+  - apiVersion: v1
+    appVersion: 0.8.0
+    created: "2020-06-24T14:41:53.787453-07:00"
+    description: A Helm chart for Dapr on Kubernetes
+    digest: 7689ce73a1addb70e1788fe1daf5746978ca1fe47bc61d23ead69ab2839f7aa9
+    name: dapr
+    urls:
+    - https://dapr.github.io/dapr-helm-charts.io/charts/dapr-0.4.2.tgz
+    version: 0.4.2
+generated: "2020-06-24T14:41:53.780181-07:00"
