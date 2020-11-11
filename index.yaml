@@ -3,65 +3,65 @@ entries:
   dapr:
   - apiVersion: v1
     appVersion: 0.11.3
-    created: "2020-11-11T20:21:31.059702312Z"
+    created: "2020-10-23T21:29:31.789165236Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: ef2b32d000a87c323533221d263b08377186b2940b753a722e33ba03e9c84b36
     name: dapr
     urls:
-    - https://tcnghia.github.io/helm-charts/dapr-0.11.3.tgz
+    - https://dapr.github.io/helm-charts/dapr-0.11.3.tgz
     version: 0.11.3
   - apiVersion: v1
     appVersion: 0.11.2
-    created: "2020-11-11T20:21:31.058217605Z"
+    created: "2020-10-23T21:29:31.772210179Z"
     description: A Helm chart for Dapr on Kubernetes
-    digest: 1c3605c1dea5f209a21350e1fd5c63d7b0742c4c743357430bc1aceeb12f4da0
+    digest: b3f8502cfc5c622fae759648ba5f01dc4fc7b09a4438f3e7f7c81169eb9d69d0
     name: dapr
     urls:
-    - https://tcnghia.github.io/helm-charts/dapr-0.11.2.tgz
+    - https://dapr.github.io/helm-charts/dapr-0.11.2.tgz
     version: 0.11.2
   - apiVersion: v1
     appVersion: 0.11.1
-    created: "2020-11-11T20:21:31.056747898Z"
+    created: "2020-10-23T21:29:31.770952567Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 89eee2efd5f2d89fc0eaf8ce9156559ac0995218098129b91d03a045c75b9ec3
     name: dapr
     urls:
-    - https://tcnghia.github.io/helm-charts/dapr-0.11.1.tgz
+    - https://dapr.github.io/helm-charts/dapr-0.11.1.tgz
     version: 0.11.1
   - apiVersion: v1
     appVersion: 0.11.0
-    created: "2020-11-11T20:21:31.055385391Z"
+    created: "2020-10-23T21:29:31.769740856Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 9fe981dc6451829de92e02ae043a90f2f5777e11a71805f3018e932b2afe5854
     name: dapr
     urls:
-    - https://tcnghia.github.io/helm-charts/dapr-0.11.0.tgz
+    - https://dapr.github.io/helm-charts/dapr-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v1
     appVersion: 0.10.0
-    created: "2020-11-11T20:21:31.053798184Z"
+    created: "2020-10-23T21:29:31.768526544Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 5add19b1a68849f83f40e942c0a1cd2d8fa4a844673b8e611a40a16812ea1258
     name: dapr
     urls:
-    - https://tcnghia.github.io/helm-charts/dapr-0.10.0.tgz
+    - https://dapr.github.io/helm-charts/dapr-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v1
     appVersion: 0.9.0
-    created: "2020-11-11T20:21:31.062682426Z"
+    created: "2020-10-23T21:29:31.791971462Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 3cbd089a97fb2b8ae87a60c3b100d6492e5dd23d189348787f05bc9dd09290fc
     name: dapr
     urls:
-    - https://tcnghia.github.io/helm-charts/dapr-0.4.3.tgz
+    - https://dapr.github.io/helm-charts/dapr-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v1
     appVersion: 0.8.0
-    created: "2020-11-11T20:21:31.06136602Z"
+    created: "2020-10-23T21:29:31.790023344Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: fc1cd4902afaeb0623282a7664803def9e35d6d976d63e05f70385098294d46d
     name: dapr
     urls:
-    - https://tcnghia.github.io/helm-charts/dapr-0.4.2.tgz
+    - https://dapr.github.io/helm-charts/dapr-0.4.2.tgz
     version: 0.4.2
-generated: "2020-11-11T20:21:31.027422557Z"
+generated: "2020-10-23T21:29:31.766856129Z"
