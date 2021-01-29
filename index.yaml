@@ -3,16 +3,16 @@ entries:
   dapr:
   - apiVersion: v1
     appVersion: 1.0.0-rc.3
-    created: "2021-01-29T02:42:45.797139179Z"
+    created: "2021-01-29T15:43:58.871943454Z"
     description: A Helm chart for Dapr on Kubernetes
-    digest: eb9a2e3ed7ce20b464261c828f5fbc18667a173fb5272bba0f85d0769f4d76eb
+    digest: 713d5569ee35c49245d22b619cd53424c91fa4ebf9ceade271536bf949298786
     name: dapr
     urls:
     - https://dapr.github.io/helm-charts/dapr-1.0.0-rc.3.tgz
     version: 1.0.0-rc.3
   - apiVersion: v1
     appVersion: 1.0.0-rc.2
-    created: "2021-01-29T02:42:45.795409749Z"
+    created: "2021-01-29T15:43:58.870025417Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 6220b6b4da1cbd898d4600722c3b4c343fdda3501e82bb8d8b4b101a3cbae14e
     name: dapr
@@ -21,7 +21,7 @@ entries:
     version: 1.0.0-rc.2
   - apiVersion: v1
     appVersion: 1.0.0-rc.1
-    created: "2021-01-29T02:42:45.793762421Z"
+    created: "2021-01-29T15:43:58.866624352Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 4143f8ee1bed20214ce318855fe68408f9fb5d1aad8b8224df7117b1b846363f
     name: dapr
@@ -30,7 +30,7 @@ entries:
     version: 1.0.0-rc.1
   - apiVersion: v1
     appVersion: 0.11.3
-    created: "2021-01-29T02:42:45.780222886Z"
+    created: "2021-01-29T15:43:58.862225567Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: ef2b32d000a87c323533221d263b08377186b2940b753a722e33ba03e9c84b36
     name: dapr
@@ -39,7 +39,7 @@ entries:
     version: 0.11.3
   - apiVersion: v1
     appVersion: 0.11.2
-    created: "2021-01-29T02:42:45.778837261Z"
+    created: "2021-01-29T15:43:58.860875541Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: b3f8502cfc5c622fae759648ba5f01dc4fc7b09a4438f3e7f7c81169eb9d69d0
     name: dapr
@@ -48,7 +48,7 @@ entries:
     version: 0.11.2
   - apiVersion: v1
     appVersion: 0.11.1
-    created: "2021-01-29T02:42:45.777431937Z"
+    created: "2021-01-29T15:43:58.859497614Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 89eee2efd5f2d89fc0eaf8ce9156559ac0995218098129b91d03a045c75b9ec3
     name: dapr
@@ -57,7 +57,7 @@ entries:
     version: 0.11.1
   - apiVersion: v1
     appVersion: 0.11.0
-    created: "2021-01-29T02:42:45.775984512Z"
+    created: "2021-01-29T15:43:58.858058086Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 9fe981dc6451829de92e02ae043a90f2f5777e11a71805f3018e932b2afe5854
     name: dapr
@@ -66,7 +66,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: 0.10.0
-    created: "2021-01-29T02:42:45.774534187Z"
+    created: "2021-01-29T15:43:58.856066848Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 5add19b1a68849f83f40e942c0a1cd2d8fa4a844673b8e611a40a16812ea1258
     name: dapr
@@ -75,7 +75,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: 0.9.0
-    created: "2021-01-29T02:42:45.792093092Z"
+    created: "2021-01-29T15:43:58.865133723Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 3cbd089a97fb2b8ae87a60c3b100d6492e5dd23d189348787f05bc9dd09290fc
     name: dapr
@@ -84,11 +84,11 @@ entries:
     version: 0.4.3
   - apiVersion: v1
     appVersion: 0.8.0
-    created: "2021-01-29T02:42:45.781951416Z"
+    created: "2021-01-29T15:43:58.863918099Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: fc1cd4902afaeb0623282a7664803def9e35d6d976d63e05f70385098294d46d
     name: dapr
     urls:
     - https://dapr.github.io/helm-charts/dapr-0.4.2.tgz
     version: 0.4.2
-generated: "2021-01-29T02:42:45.772603653Z"
+generated: "2021-01-29T15:43:58.791757706Z"
