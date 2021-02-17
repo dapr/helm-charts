@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   dapr:
   - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2021-02-17T01:27:35.229996911Z"
+    description: A Helm chart for Dapr on Kubernetes
+    digest: f26c570b744d7ed1b8373d02d83d3e326eb9d194e367f6e623a6a3085bc0bb60
+    name: dapr
+    urls:
+    - https://dapr.github.io/helm-charts/dapr-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
     appVersion: 1.0.0-rc.4
-    created: "2021-02-12T20:45:05.166089854Z"
+    created: "2021-02-17T01:27:35.228216795Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 1918928493777be9baa11962e4cb424622b560f6bf1bcfaa10aee2d6254ec6c4
     name: dapr
@@ -12,7 +21,7 @@ entries:
     version: 1.0.0-rc.4
   - apiVersion: v1
     appVersion: 1.0.0-rc.3
-    created: "2021-02-12T20:45:05.16438021Z"
+    created: "2021-02-17T01:27:35.226238766Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: e3bae4f5dc9e0b4dbabdb1adca66823443960f7c689f0760c31e101de17afeaa
     name: dapr
@@ -21,7 +30,7 @@ entries:
     version: 1.0.0-rc.3
   - apiVersion: v1
     appVersion: 1.0.0-rc.2
-    created: "2021-02-12T20:45:05.162581263Z"
+    created: "2021-02-17T01:27:35.223959418Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 6220b6b4da1cbd898d4600722c3b4c343fdda3501e82bb8d8b4b101a3cbae14e
     name: dapr
@@ -30,7 +39,7 @@ entries:
     version: 1.0.0-rc.2
   - apiVersion: v1
     appVersion: 1.0.0-rc.1
-    created: "2021-02-12T20:45:05.159910594Z"
+    created: "2021-02-17T01:27:35.222058994Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 4143f8ee1bed20214ce318855fe68408f9fb5d1aad8b8224df7117b1b846363f
     name: dapr
@@ -39,7 +48,7 @@ entries:
     version: 1.0.0-rc.1
   - apiVersion: v1
     appVersion: 0.11.3
-    created: "2021-02-12T20:45:05.144845904Z"
+    created: "2021-02-17T01:27:35.215667578Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: ef2b32d000a87c323533221d263b08377186b2940b753a722e33ba03e9c84b36
     name: dapr
@@ -48,7 +57,7 @@ entries:
     version: 0.11.3
   - apiVersion: v1
     appVersion: 0.11.2
-    created: "2021-02-12T20:45:05.142030931Z"
+    created: "2021-02-17T01:27:35.21415498Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: b3f8502cfc5c622fae759648ba5f01dc4fc7b09a4438f3e7f7c81169eb9d69d0
     name: dapr
@@ -57,7 +66,7 @@ entries:
     version: 0.11.2
   - apiVersion: v1
     appVersion: 0.11.1
-    created: "2021-02-12T20:45:05.140632395Z"
+    created: "2021-02-17T01:27:35.212653082Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 89eee2efd5f2d89fc0eaf8ce9156559ac0995218098129b91d03a045c75b9ec3
     name: dapr
@@ -66,7 +75,7 @@ entries:
     version: 0.11.1
   - apiVersion: v1
     appVersion: 0.11.0
-    created: "2021-02-12T20:45:05.139233959Z"
+    created: "2021-02-17T01:27:35.211170185Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 9fe981dc6451829de92e02ae043a90f2f5777e11a71805f3018e932b2afe5854
     name: dapr
@@ -75,7 +84,7 @@ entries:
     version: 0.11.0
   - apiVersion: v1
     appVersion: 0.10.0
-    created: "2021-02-12T20:45:05.137754621Z"
+    created: "2021-02-17T01:27:35.209606584Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 5add19b1a68849f83f40e942c0a1cd2d8fa4a844673b8e611a40a16812ea1258
     name: dapr
@@ -84,7 +93,7 @@ entries:
     version: 0.10.0
   - apiVersion: v1
     appVersion: 0.9.0
-    created: "2021-02-12T20:45:05.156306101Z"
+    created: "2021-02-17T01:27:35.219739943Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: 3cbd089a97fb2b8ae87a60c3b100d6492e5dd23d189348787f05bc9dd09290fc
     name: dapr
@@ -93,11 +102,11 @@ entries:
     version: 0.4.3
   - apiVersion: v1
     appVersion: 0.8.0
-    created: "2021-02-12T20:45:05.153487028Z"
+    created: "2021-02-17T01:27:35.217525899Z"
     description: A Helm chart for Dapr on Kubernetes
     digest: fc1cd4902afaeb0623282a7664803def9e35d6d976d63e05f70385098294d46d
     name: dapr
     urls:
     - https://dapr.github.io/helm-charts/dapr-0.4.2.tgz
     version: 0.4.2
-generated: "2021-02-12T20:45:05.127436354Z"
+generated: "2021-02-17T01:27:35.207567651Z"
