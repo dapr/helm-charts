@@ -4941,6 +4941,7 @@ entries:
     urls:
     - https://dapr.github.io/helm-charts/dapr-dashboard-0.15.0.tgz
     version: 0.15.0
+    deprecated: true
   - apiVersion: v2
     appVersion: 0.15.0-rc.2
     created: "2026-06-01T19:44:27.056405308Z"
@@ -4951,6 +4952,7 @@ entries:
     urls:
     - https://dapr.github.io/helm-charts/dapr-dashboard-0.15.0-rc.2.tgz
     version: 0.15.0-rc.2
+    deprecated: true
   - apiVersion: v2
     appVersion: 0.15.0-rc.1
     created: "2026-06-01T19:44:27.056116237Z"
@@ -4961,6 +4963,7 @@ entries:
     urls:
     - https://dapr.github.io/helm-charts/dapr-dashboard-0.15.0-rc.1.tgz
     version: 0.15.0-rc.1
+    deprecated: true
   - apiVersion: v2
     appVersion: 0.14.0
     created: "2026-06-01T19:44:27.055825143Z"
@@ -4971,6 +4974,7 @@ entries:
     urls:
     - https://dapr.github.io/helm-charts/dapr-dashboard-0.14.0.tgz
     version: 0.14.0
+    deprecated: true
   - apiVersion: v2
     appVersion: 0.14.0-rc.1
     created: "2026-06-01T19:44:27.055538115Z"
@@ -4981,6 +4985,7 @@ entries:
     urls:
     - https://dapr.github.io/helm-charts/dapr-dashboard-0.14.0-rc.1.tgz
     version: 0.14.0-rc.1
+    deprecated: true
   - apiVersion: v2
     appVersion: 0.13.0
     created: "2026-06-01T19:44:27.055267772Z"
@@ -4991,6 +4996,7 @@ entries:
     urls:
     - https://dapr.github.io/helm-charts/dapr-dashboard-0.13.0.tgz
     version: 0.13.0
+    deprecated: true
   - apiVersion: v2
     appVersion: 0.13.0-rc.1
     created: "2026-06-01T19:44:27.054982998Z"
@@ -5001,4 +5007,5 @@ entries:
     urls:
     - https://dapr.github.io/helm-charts/dapr-dashboard-0.13.0-rc.1.tgz
     version: 0.13.0-rc.1
+    deprecated: true
 generated: "2026-06-01T19:44:26.447375509Z"
